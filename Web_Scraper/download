@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+scraper.log
+scraped_data.json
+scraped_data.csv
